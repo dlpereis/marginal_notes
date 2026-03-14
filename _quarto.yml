@@ -5,13 +5,28 @@ project:
 website:
   title: "Marginal Notes"
   site-url: "https://dlpereis.github.io/marginal_notes"
+  description: "Quantitative notes on economics, statistics & finance"
+  favicon: favicon.ico
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/dlpereis
+  page-footer:
+    center: "Marginal Notes · Daniel Reis"
 
 format:
   html:
-    theme: cosmo       # ou flatly, lumen, simplex...
+    theme: cosmo
     toc: true
+    toc-depth: 3
+    code-fold: true
+    code-tools: true
+    highlight-style: github
+    fig-width: 8
+    fig-height: 5
+    fig-dpi: 150

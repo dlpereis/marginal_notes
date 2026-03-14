@@ -8,7 +8,7 @@
 <title>Marginal Notes</title>
 <link>https://dlpereis.github.io/marginal_notes/</link>
 <atom:link href="https://dlpereis.github.io/marginal_notes/index.xml" rel="self" type="application/rss+xml"/>
-<description></description>
+<description>Quantitative notes on economics, statistics &amp; finance</description>
 <generator>quarto-1.8.27</generator>
 <lastBuildDate>Sat, 14 Mar 2026 03:00:00 GMT</lastBuildDate>
 <item>
@@ -23,6 +23,8 @@
 
 <p>This is a post with executable code.</p>
 
+
+<!-- -->
 
 
  ]]></description>
@@ -47,6 +49,8 @@
 <p><img src="https://dlpereis.github.io/marginal_notes/posts/welcome/thumbnail.jpg" class="img-fluid"></p>
 <p>Since this post doesn’t specify an explicit <code>image</code>, the first image in the post will be used in the listing page of posts.</p>
 
+
+<!-- -->
 
 
  ]]></description>

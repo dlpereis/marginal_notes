@@ -18,7 +18,7 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this blog"
+    "text": "I’m an economist and data scientist with a background in quantitative research and financial analysis. My work sits at the intersection of macroeconomics, statistics, and applied finance — translating data into rigorous, reproducible insights.\nThis site is where I publish analyses, notes, and code on topics I find interesting: housing markets, monetary policy, asset pricing, and econometric methods. Everything is written in R and built with Quarto."
   },
   {
     "objectID": "posts/post-with-code/index.html",
