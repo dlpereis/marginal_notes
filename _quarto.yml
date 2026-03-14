@@ -1,0 +1,16 @@
+project:
+  type: blog          # ou "website"
+  output-dir: docs    # GitHub Pages lê desta pasta
+
+website:
+  title: "Meu Site"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - about.qmd
+
+format:
+  html:
+    theme: cosmo       # ou flatly, lumen, simplex...
+    toc: true
