@@ -1,9 +1,10 @@
 project:
-  type: blog          # ou "website"
-  output-dir: docs    # GitHub Pages lê desta pasta
+  type: website
+  output-dir: docs
 
 website:
-  title: "Meu Site"
+  title: "Marginal Notes"
+  site-url: "https://dlpereis.github.io/marginal_notes"
   navbar:
     left:
       - href: index.qmd
