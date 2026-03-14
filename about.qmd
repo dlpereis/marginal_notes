@@ -1,22 +1,5 @@
 ---
 title: "About"
-image: profile.jpg
-about:
-  template: jolla
-  links:
-    - icon: github
-      text: GitHub
-      href: https://github.com/dlpereis
-    - icon: linkedin
-      text: LinkedIn
-      href: https://linkedin.com/in/seu-perfil
 ---
 
-I'm an economist and data scientist with a background in quantitative 
-research and financial analysis. My work sits at the intersection of 
-macroeconomics, statistics, and applied finance — translating data 
-into rigorous, reproducible insights.
-
-This site is where I publish analyses, notes, and code on topics I find 
-interesting: housing markets, monetary policy, asset pricing, and 
-econometric methods. Everything is written in R and built with Quarto.
+About this site
