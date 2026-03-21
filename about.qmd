@@ -1,6 +1,6 @@
 ---
 title: "Daniel L. P. Esteves dos Reis"
-image: profile.jpg
+image: foto_minha.jpeg
 about:
   template: jolla
   links:
