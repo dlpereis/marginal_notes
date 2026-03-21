@@ -12,7 +12,7 @@ about:
       href: https://github.com/dlpereis
     - icon: file-earmark-person
       text: Curriculum Vitae
-      href: CV_2025_Eng.pdf
+      href: https://dlpereis.github.io/margin_notes/CV_2025_Eng.pdf
     - icon: envelope
       text: Email
       href: mailto:estevesdosreis@hotmail.com
