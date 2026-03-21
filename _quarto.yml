@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  resources:
+    - styles.css
+    - CV_2025_Eng.pdf
 
 website:
   title: "Margin Notes"
@@ -21,6 +24,3 @@ format:
       - brand
     css: styles.css
     toc: true
-
-resources:
-  - CV_2025_Eng.pdf
