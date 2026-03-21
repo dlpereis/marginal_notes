@@ -1,0 +1,77 @@
+/* ── Tipografia ── */
+p {
+  text-align: justify;
+  hyphens: auto;
+  -webkit-hyphens: auto;
+}
+
+/* ── Title Banner ── */
+.quarto-title-banner {
+  background-image: url("https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&q=80");
+  background-size: cover;
+  background-position: center 40%;
+  min-height: 220px;
+  position: relative;
+}
+
+.quarto-title-banner::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(
+    105deg,
+    rgba(4, 44, 83, 0.88) 0%,
+    rgba(24, 95, 165, 0.65) 60%,
+    rgba(4, 44, 83, 0.50) 100%
+  );
+  z-index: 0;
+}
+
+.quarto-title-banner .quarto-title,
+.quarto-title-banner .quarto-title-block,
+.quarto-title-banner .quarto-categories {
+  position: relative;
+  z-index: 1;
+}
+
+.quarto-title-banner h1.title,
+.quarto-title-banner .description,
+.quarto-title-banner .quarto-title-meta-heading,
+.quarto-title-banner .quarto-title-meta-contents {
+  color: #ffffff !important;
+}
+
+.quarto-title-banner .quarto-category {
+  color: rgba(255, 255, 255, 0.85) !important;
+  border-color: rgba(255, 255, 255, 0.5) !important;
+}
+
+/* ── Marginal Notes ── */
+.mn-body {
+  display: grid;
+  grid-template-columns: 1fr 220px;
+  gap: 2rem;
+}
+
+.mn-note {
+  font-size: 12.5px;
+  line-height: 1.45;
+  border-left: 2px solid #2761e3;
+  padding-left: 0.75rem;
+  margin-bottom: 1.2rem;
+}
+
+.mn-note-num {
+  display: inline-block;
+  width: 16px;
+  height: 16px;
+  background: #2761e3;
+  color: #fff;
+  font-size: 10px;
+  font-weight: 700;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 16px;
+  margin-bottom: 5px;
+}
+

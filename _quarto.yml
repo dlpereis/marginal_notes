@@ -3,6 +3,7 @@ project:
 
 website:
   title: "Margin Notes"
+  site-url: "https://dlpereis.github.io/margin_notes"
   navbar:
     left:
       - href: index.qmd
