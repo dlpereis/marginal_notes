@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   title: "Margin Notes"
@@ -9,6 +10,9 @@ website:
       - href: index.qmd
         text: Home
       - about.qmd
+    right:
+      - icon: github
+        href: https://github.com/dlpereis
 
 format:
   html:
@@ -20,4 +24,3 @@ format:
 
 resources:
   - CV_2025_Eng.pdf
-
