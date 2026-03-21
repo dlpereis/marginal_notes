@@ -1,5 +1,5 @@
 ---
-title: "Yes"
+title: "Margin Notes"
 ---
 
 This is a Quarto website.
