@@ -23,8 +23,9 @@ p {
   background-image: url("https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=1600&q=80");
   background-size: cover;
   background-position: center 40%;
-  min-height: 200px;
+  min-height: 160px;
   position: relative;
+  padding: 2rem 0;
 }
 .quarto-title-banner::before {
   content: "";

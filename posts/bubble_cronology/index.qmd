@@ -1,0 +1,8 @@
+---
+title: "Anatomia de uma Bolha: O Ciclo do Subprime (1995-2015)"
+subtitle: "Uma autopsia economica sobre expansao de credito, CDOs e o colapso do mercado"
+author: "Daniel Reis"
+date: "2026-03-05"
+categories: [economia, financas]
+image: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Simi_Valley_Neighborhoods.jpg/1280px-Simi_Valley_Neighborhoods.jpg"
+---
