@@ -1,0 +1,6 @@
+---
+title: "Anatomia de uma Bolha: O Ciclo do Subprime (1995-2015)"
+author: "Daniel Reis"
+date: "2026-03-05"
+categories: [economia, financas]
+---
