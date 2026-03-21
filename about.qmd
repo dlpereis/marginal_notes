@@ -1,5 +1,27 @@
 ---
-title: "About"
+title: "Daniel L. P. Esteves dos Reis"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/daniel-esteves-dos-reis-08849127
+    - icon: github
+      text: GitHub
+      href: https://github.com/dlpereis
+    - icon: file-earmark-person
+      text: Curriculum Vitae
+      href: CV_2025_Eng.pdf
+    - icon: envelope
+      text: Email
+      href: mailto:estevesdosreis@hotmail.com
 ---
 
-About this site
+Quantitative Research Specialist at **BOCOM BBM**, based in Rio de Janeiro, Brazil. I work at the intersection of econometrics, financial modeling, and risk management — developing predictive models for credit risk, probability of default estimation, economic capital, and stress-testing frameworks.
+
+Previously a Research Assistant at **IPEA** (Institute for Applied Economic Research), where I built forecasting models for Brazilian agricultural markets and contributed to inflation monitoring for government agencies.
+
+My academic background includes an M.Sc. in Applied Economics from UFJF and doctoral studies in Applied Mathematics at ISEG Lisbon. I hold the **CFA Level 1** designation and was recognized with an **Honorable Mention** at the Paulo Haddad Award from ABER.
+
+This blog — *Margin Notes* — is where I write about economics, statistics, and finance, with a focus on quantitative methods and data analysis. The posts combine rigorous methodology with accessible narrative, bridging the gap between academic research and practical application.

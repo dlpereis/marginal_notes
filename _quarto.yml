@@ -18,5 +18,6 @@ format:
     css: styles.css
     toc: true
 
-
+resources:
+  - CV_2025_Eng.pdf
 
