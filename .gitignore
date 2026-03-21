@@ -1,2 +1,9 @@
 /.quarto/
 **/*.quarto_ipynb
+
+# Dados e código R
+*.rda
+*.rds
+preamble.R
+_freeze/
+_site/
